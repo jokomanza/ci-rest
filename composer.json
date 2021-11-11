@@ -1,0 +1,17 @@
+{
+    "name": "jokomanza/ci-rest",
+    "description": "CI Rest API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joko Supriyanto",
+            "email": "jokomanza@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"jokomanza\\ci-rest\\": "src/"}
+    },
+    "require": {}
+}
